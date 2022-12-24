@@ -1,6 +1,7 @@
 ---
-layout: index
+layout: page
 title: 主页
+permalink: /
 ---
 
 - 这里是XhuOffice的官方网站
