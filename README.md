@@ -11,7 +11,7 @@
 
 ## 业务
 
-- 我们提供Minecraft服务器游戏服务，您可以访问[该页面](./mcs "Minecraft Server Services")以获取详细信息。
+- 我们提供Minecraft服务器游戏服务，您可以访问[该页面](./MCS.md "Minecraft Server Services")以获取详细信息。
 - 工作室在Bilibili上发布视频，您可以前往[该页面][Session-Go]以获取详细信息
 
 [Xhu-Go]: https://space.bilibili.com/662407339 "Bilibili工作室主页"

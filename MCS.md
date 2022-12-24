@@ -1,6 +1,6 @@
 layout: page
 title: Minecraft Server Services
-permalink: /MCS/
+permalink: /MCS.md/
 
 # Minecraft服务器游戏服务
 
