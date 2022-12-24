@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Minecraft Server Services
+title: Minecraft服务器游戏服务
 permalink: /MCS/
 ---
-
-# Minecraft服务器游戏服务
 
 ## 核服 235SR
 
