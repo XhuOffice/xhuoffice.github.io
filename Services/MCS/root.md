@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Minecraft服务器游戏服务
-permalink: /MCS/
+permalink: /Services/MCS/
 ---
 
 ## 核服 235SR
@@ -23,7 +23,7 @@ permalink: /MCS/
   - 注意事项
     - **服务器使用[LittleSkin][LittleSkin]鉴权，游玩请注意登陆方式！**
 
-[235SR-ICON]: https://xhuoffice.tk/images/235SR.png "235SR"
+[235SR-ICON]: https://xhuoffice.tk/images/Services/235SR.png "235SR"
 [235SR-Size]: https://img.shields.io/github/repo-size/SessionHu/235SR?label=服务器体积&style=flat-square "Size"
 [235SR-Go]: https://github.com/SessionHu/235SR
 [235SR-Commit]: https://img.shields.io/github/last-commit/SessionHu/235SR?label=%E4%B8%8A%E6%AC%A1%E6%9B%B4%E6%96%B0&style=flat-square "Last Commit"
