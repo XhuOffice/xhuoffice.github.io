@@ -26,5 +26,5 @@ permalink: /
 
 [Xhu-Go]: https://space.bilibili.com/662407339 "Bilibili工作室主页"
 [Session-Go]: https://space.bilibili.com/645769214 "Bilibili个人主页"
-[Session-Charge]: https://www.bilibili.com/v/pay/charge?upmid=645769214&upurl=%2F%2Fspace.bilibili.com%2F645769214&upname=Session%E5%B0%8F%E8%83%A1&upavatar=https%3A%2F%2Fi2.hdslb.com%2Fbfs%2Fface%2F77906db03b1eefac02613de184afad03f7bc58d7.jpg&oid=645769214&otype=up&from=zone "关注也行"
+[Session-Charge]: https://www.bilibili.com/v/pay/charge?upmid=645769214&upurl=//space.bilibili.com/645769214&upname=Session小胡&upavatar=https://i2.hdslb.com/bfs/face/77906db03b1eefac02613de184afad03f7bc58d7.jpg&oid=645769214&otype=up&from=zone "关注也行"
 [Login-B]: https://passport.bilibili.com "登录Bilibili"
