@@ -15,7 +15,7 @@ header_pages:
  - Services/root.md
  - OpenSource/root.md
 
-theme: minima@2.5.1
+remote_theme: jekyll/minima@2.5.1
 
 plugins:
  - jekyll-feed
