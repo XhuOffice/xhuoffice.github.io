@@ -8,7 +8,7 @@ permalink: /OpenSource/
 
 ## 概况
 
-- [![Stars](https://img.shields.io/github/stars/SessionHu?style=flat-square "Stars") ![Followers](https://img.shields.io/github/followers/SessionHu?style=flat-square)](https://github.com/SessionHu/)
+- [![Stars](https://img.shields.io/github/stars/SessionHu?style=flat-square&label=Stars "Stars") ![Followers](https://img.shields.io/github/followers/SessionHu?style=flat-square&label=Followers "Followers")](https://github.com/SessionHu/)
 
 - XhuOffice是一个在GitHub上进行开源项目的工作室。
 
@@ -31,5 +31,5 @@ permalink: /OpenSource/
 [PCDP-Last-Commit]: https://img.shields.io/github/last-commit/SessionHu/PC-Desktop-Protection-Virus?label=上次提交&style=flat-square
 [PCDP-Stars]: https://img.shields.io/github/stars/SessionHu/PC-Desktop-Protection-Virus?label=Stars&style=flat-square
 [PCDP-Size]: https://img.shields.io/github/repo-size/SessionHu/PC-Desktop-Protection-Virus?label=存储库大小&style=flat-square
-[PCDP-License]: https://img.shields.io/badge/License-Apache%202.0-red?style=flat-square "License"
+[PCDP-License]: https://img.shields.io/badge/License-Apache%202.0-red?style=flat-square
 [PCDP-Go]: https://github.com/SessionHu/PC-Desktop-Protection-Virus/ "在GitHub上查看"
