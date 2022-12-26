@@ -1,3 +1,22 @@
-theme: minima
 title: XhuOffice
+
+author:
+  email: sessionhu@xhuoffice.tk
 description: Welcome to XhuOffice Website!
+show_excerpts: false 
+
+minima:
+  date_format: "%Y - %m - %d"
+  social_links:
+    - { platform: GitHub,         user_url: "https://github.com/SessionHu" }
+
+header_pages:
+ - README.md
+ - Services/root.md
+ - OpenSource/root.md
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
