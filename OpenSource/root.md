@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 开源
-permalink: /Open/
+permalink: /OpenSource/
 ---
 
 ***`该页面施工中`***
