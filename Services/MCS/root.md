@@ -20,6 +20,8 @@ permalink: /Services/MCS/
     - mcs-sh.xhuoffice.tk
   - 杭州节点
     - mcs-hz.xhuoffice.tk
+  - *泉州节点（测试）*
+    - mcs-github.xhuoffice.tk
   - 注意事项
     - **服务器使用[LittleSkin][LittleSkin]鉴权，游玩请注意登陆方式！**
 
