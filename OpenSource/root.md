@@ -16,7 +16,7 @@ permalink: /OpenSource/
 
 - 开源项目开发不易！请[赞助][Session-Charge]我们！
 
-[Session-Charge]: https://passport.bilibili.com/login?gourl=https://www.bilibili.com/v/pay/charge?upmid=645769214&upurl=//space.bilibili.com/645769214&upname=Session小胡&upavatar=https://i2.hdslb.com/bfs/face/77906db03b1eefac02613de184afad03f7bc58d7.jpg&oid=645769214&otype=up&from=zone "关注也行"
+[Session-Charge]: https://passport.bilibili.com/login?gourl=https%3A%2F%2Fwww.bilibili.com%2Fv%2Fpay%2Fcharge%3Fupmid%3D645769214%26upurl%3D%2F%2Fspace.bilibili.com%2F645769214%26upname%3DSession%E5%B0%8F%E8%83%A1%26upavatar%3Dhttps%3A%2F%2Fi2.hdslb.com%2Fbfs%2Fface%2F77906db03b1eefac02613de184afad03f7bc58d7.jpg%26oid%3D645769214%26otype%3Dup%26from%3Dzone "关注也行"
 
 ## 推荐
 
