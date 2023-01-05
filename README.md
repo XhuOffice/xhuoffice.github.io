@@ -14,7 +14,7 @@ permalink: /
 
 - 工作室视频主要由[Session小胡][Session-Go]制作上传。
 
-- 工作室运营不易，请对我们进行[赞助][Session-Charge]（请先在您现在使用的浏览器上[登录][Login-B]Bilibili账号）！
+- 工作室运营不易，请对我们进行[赞助][Session-Charge]！
 
 ## 业务
 
@@ -26,5 +26,5 @@ permalink: /
 
 [Xhu-Go]: https://space.bilibili.com/662407339 "Bilibili工作室主页"
 [Session-Go]: https://space.bilibili.com/645769214 "Bilibili个人主页"
-[Session-Charge]: https://www.bilibili.com/v/pay/charge?upmid=645769214&upurl=//space.bilibili.com/645769214&upname=Session小胡&upavatar=https://i2.hdslb.com/bfs/face/77906db03b1eefac02613de184afad03f7bc58d7.jpg&oid=645769214&otype=up&from=zone "关注也行"
+[Session-Charge]: https://passport.bilibili.com/login?gourl=https://www.bilibili.com/v/pay/charge?upmid=645769214&upurl=//space.bilibili.com/645769214&upname=Session小胡&upavatar=https://i2.hdslb.com/bfs/face/77906db03b1eefac02613de184afad03f7bc58d7.jpg&oid=645769214&otype=up&from=zone "关注也行"
 [Login-B]: https://passport.bilibili.com "登录Bilibili"
