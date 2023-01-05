@@ -35,3 +35,14 @@ permalink: /OpenSource/
 
 
 ### 长度单位换算器
+
+[![GitHub Repo stars][HeightCalc-Stars] ![GitHub commit activity][HeightCalc-Commit-Activity] ![GitHub repo size][HeightCalc-Size] ![License][HeightCalc-License] ![GitHub last commit][HeightCalc-Last-Commit]][HeightCalc-Go]
+
+- 本工具用于进行长度单位间的换算，实用性不强，仅用于学习交流。
+
+[HeightCalc-Commit-Activity]: https://img.shields.io/github/commit-activity/m/SessionHu/HeightCalc?label=提交频率&style=flat-square
+[HeightCalc-Last-Commit]: https://img.shields.io/github/last-commit/SessionHu/HeightCalc?label=上次提交&style=flat-square
+[HeightCalc-Stars]: https://img.shields.io/github/stars/SessionHu/HeightCalc?label=Stars&style=flat-square
+[HeightCalc-Size]: https://img.shields.io/github/repo-size/SessionHu/HeightCalc?label=存储库大小&style=flat-square
+[HeightCalc-License]: https://img.shields.io/badge/License-WTFPL-brightgreen?style=flat-square
+[HeightCalc-Go]: https://github.com/SessionHu/HeightCalc/ "在GitHub上查看"
