@@ -20,6 +20,19 @@ permalink: /OpenSource/
 
 ## 推荐
 
+### Xhu Minecraft Mod
+
+[![GitHub Repo stars][XhuMCMod-Stars] ![GitHub commit activity][XhuMCMod-Commit-Activity] ![GitHub repo size][XhuMCMod-Size] ![License][XhuMCMod-License] ![GitHub last commit][XhuMCMod-Last-Commit]][XhuMCMod-Go]
+
+- Xhu Mod for Minecraft
+
+[XhuMCMod-Commit-Activity]: https://img.shields.io/github/commit-activity/m/XhuOffice/XhuMCMod?label=提交频率&style=flat-square
+[XhuMCMod-Last-Commit]: https://img.shields.io/github/last-commit/XhuOffice/XhuMCMod?label=上次提交&style=flat-square
+[XhuMCMod-Stars]: https://img.shields.io/github/stars/XhuOffice/XhuMCMod?label=Stars&style=flat-square
+[XhuMCMod-Size]: https://img.shields.io/github/repo-size/XhuOffice/XhuMCMod?label=存储库大小&style=flat-square
+[XhuMCMod-License]: https://img.shields.io/badge/License-Apache%202.0-red?style=flat-square
+[XhuMCMod-Go]: https://github.com/XhuOffice/XhuMCMod/ "在GitHub上查看"
+
 ### PC Desktop Protection
 
 [![GitHub Repo stars][PCDP-Stars] ![GitHub commit activity][PCDP-Commit-Activity] ![GitHub repo size][PCDP-Size] ![License][PCDP-License] ![GitHub last commit][PCDP-Last-Commit]][PCDP-Go]
@@ -33,7 +46,6 @@ permalink: /OpenSource/
 [PCDP-License]: https://img.shields.io/badge/License-Apache%202.0-red?style=flat-square
 [PCDP-Go]: https://github.com/SessionHu/PC-Desktop-Protection-Virus/ "在GitHub上查看"
 
-
 ### 长度单位换算器
 
 [![GitHub Repo stars][HeightCalc-Stars] ![GitHub commit activity][HeightCalc-Commit-Activity] ![GitHub repo size][HeightCalc-Size] ![License][HeightCalc-License] ![GitHub last commit][HeightCalc-Last-Commit]][HeightCalc-Go]
@@ -46,3 +58,16 @@ permalink: /OpenSource/
 [HeightCalc-Size]: https://img.shields.io/github/repo-size/SessionHu/HeightCalc?label=存储库大小&style=flat-square
 [HeightCalc-License]: https://img.shields.io/badge/License-WTFPL-brightgreen?style=flat-square
 [HeightCalc-Go]: https://github.com/SessionHu/HeightCalc/ "在GitHub上查看"
+
+### Discord Sender
+
+[![GitHub Repo stars][DiscordSender-Stars] ![GitHub commit activity][DiscordSender-Commit-Activity] ![GitHub repo size][DiscordSender-Size] ![License][DiscordSender-License] ![GitHub last commit][DiscordSender-Last-Commit]][DiscordSender-Go]
+
+- 一个可以发送许多相同消息的脚本，能较为顺利的在Discord上运行
+
+[DiscordSender-Commit-Activity]: https://img.shields.io/github/commit-activity/m/SessionHu/DiscordSender?label=提交频率&style=flat-square
+[DiscordSender-Last-Commit]: https://img.shields.io/github/last-commit/SessionHu/DiscordSender?label=上次提交&style=flat-square
+[DiscordSender-Stars]: https://img.shields.io/github/stars/SessionHu/DiscordSender?label=Stars&style=flat-square
+[DiscordSender-Size]: https://img.shields.io/github/repo-size/SessionHu/DiscordSender?label=存储库大小&style=flat-square
+[DiscordSender-License]: https://img.shields.io/badge/License-MIT-blueviolet?style=flat-square
+[DiscordSender-Go]: https://github.com/SessionHu/DiscordSender/ "在GitHub上查看"
