@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Minecraft Mods
-permalink: /Services/MCS/MinecraftMods
+permalink: /Services/MinecraftMods
 ---
 
 ### Xhu Minecraft Mod
