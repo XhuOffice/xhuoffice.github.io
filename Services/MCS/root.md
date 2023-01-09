@@ -30,5 +30,5 @@ permalink: /Services/MCS/
 [235SR-Go]: https://github.com/SessionHu/235SR
 [235SR-Commit]: https://img.shields.io/github/last-commit/SessionHu/235SR?label=%E4%B8%8A%E6%AC%A1%E6%9B%B4%E6%96%B0&style=flat-square "Last Commit"
 [LittleSkin]: https://littleskin.cn "LittleSkin网站"
-[235SR-Discord-Info]: https://img.shields.io/discord/967935458506059827?label=Discord&style=flat-square
+[235SR-Discord-Info]: https://img.shields.io/discord/967935458506059827?label=Discord&style=flat-square&color=blueviolet
 [235SR-Discord-Go]: https://discord.gg/WQE8wRqtaY
