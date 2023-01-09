@@ -26,6 +26,8 @@ permalink: /OpenSource/
 
 - Xhu Mod for Minecraft
 
+- 详情请见[此页](../Services/MinecraftMods/ "Minecraft Mods")
+
 [XhuMCMod-Commit-Activity]: https://img.shields.io/github/commit-activity/m/XhuOffice/XhuMCMod?label=提交频率&style=flat-square
 [XhuMCMod-Last-Commit]: https://img.shields.io/github/last-commit/XhuOffice/XhuMCMod?label=上次提交&style=flat-square
 [XhuMCMod-Stars]: https://img.shields.io/github/stars/XhuOffice/XhuMCMod?label=Stars&style=flat-square
