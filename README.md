@@ -24,7 +24,7 @@ permalink: /
 
 - 我们在GitHub上进行开源项目，您可以前往[该页面](./OpenSource/ "开源")以获取详细信息。
 
-- 我们提供Minecraft的Mod给您进行游玩，您可以访问[该页面](./MinecraftMods/ "Minecraft Mods")以获取详细信息。
+- 我们提供Minecraft的Mod给您进行游玩，您可以访问[该页面](./Services/MinecraftMods/ "Minecraft Mods")以获取详细信息。
 
 [Xhu-Go]: https://space.bilibili.com/662407339 "Bilibili工作室主页"
 [Session-Go]: https://space.bilibili.com/645769214 "Bilibili个人主页"
