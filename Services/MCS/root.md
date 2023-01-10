@@ -16,14 +16,12 @@ permalink: /Services/MCS/
   - [![Size][235SR-Size]][235SR-GO] [![Last-Commit][235SR-Commit]][235SR-Go] [![Discord][235SR-Discord-Info]][235SR-Discord-Go]
 
 - 加入服务器
-  - 上海节点
-    - mcs-sh.xhuoffice.tk
-  - 杭州节点
-    - mcs-hz.xhuoffice.tk
-  - *泉州节点（测试）*
-    - mcs-github.xhuoffice.tk
+  - 服务器地址
+    - `xhuoffice.ml`
   - 注意事项
-    - **服务器使用[LittleSkin][LittleSkin]鉴权，游玩请注意登陆方式！**
+    - 服务器使用[LittleSkin][LittleSkin]鉴权，游玩请注意登陆方式！
+    - 服务器自动选择节点进行连接，请注意不要随便使用代理！
+    - 服务器目前位于欧洲，延迟可能较大
 
 [235SR-ICON]: https://xhuoffice.tk/images/Services/235SR.png "235SR"
 [235SR-Size]: https://img.shields.io/github/repo-size/SessionHu/235SR?label=服务器体积&style=flat-square "Size"
