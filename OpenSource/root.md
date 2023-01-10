@@ -8,11 +8,15 @@ permalink: /OpenSource/
 
 ## 概况
 
-- [![Stars](https://img.shields.io/github/stars/SessionHu?style=flat-square&label=Stars "Stars") ![Followers](https://img.shields.io/github/followers/SessionHu?style=flat-square&label=Followers "Followers")](https://github.com/SessionHu/)
+- GitHub
+  - SessionHu
+    - [![Stars](https://img.shields.io/github/stars/SessionHu?style=flat-square&label=Stars "Stars") ![Followers](https://img.shields.io/github/followers/SessionHu?style=flat-square&label=Followers "Followers")](https://github.com/SessionHu/)
+  - XhuOffice
+    - [![Stars](https://img.shields.io/github/stars/XhuOffice?style=flat-square&label=Stars "Stars") ![Followers](https://img.shields.io/github/followers/XhuOffice?style=flat-square&label=Followers "Followers")](https://github.com/XhuOffice/)
 
 - XhuOffice是一个在GitHub上进行开源项目的工作室。
 
-- 主要项目有`PC Desktop Protection`、`长度单位计算器`等
+- 主要项目有 `Xhu Minecraft Mod` `PC Desktop Protection` `长度单位计算器` 等
 
 - 开源项目开发不易！请[赞助][Session-Charge]我们！
 
