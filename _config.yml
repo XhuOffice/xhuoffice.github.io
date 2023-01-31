@@ -13,6 +13,7 @@ header_pages:
  - README.md
  - Services/root.md
  - OpenSource/root.md
+ - Notes/root.md
 
 remote_theme: jekyll/minima
 
