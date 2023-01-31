@@ -23,7 +23,7 @@ permalink: /Services/MCS/
     - 服务器自动选择节点进行连接，请注意不要随便使用代理！
     - 服务器目前位于欧洲，延迟可能较大
 
-[235SR-ICON]: https://xhuoffice.tk/images/Services/235SR.png "235SR"
+[235SR-ICON]: /images/Services/235SR.png "235SR"
 [235SR-Size]: https://img.shields.io/github/repo-size/SessionHu/235SR?label=服务器体积&style=flat-square "Size"
 [235SR-Go]: https://github.com/SessionHu/235SR
 [235SR-Commit]: https://img.shields.io/github/last-commit/SessionHu/235SR?label=%E4%B8%8A%E6%AC%A1%E6%9B%B4%E6%96%B0&style=flat-square "Last Commit"
