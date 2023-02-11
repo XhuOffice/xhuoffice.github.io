@@ -15,7 +15,7 @@ header_pages:
  - OpenSource/root.md
  - Notes/root.md
 
-remote_theme: jekyll/minima
+remote_theme: XhuOffice/minima
 
 plugins:
  - jekyll-feed
