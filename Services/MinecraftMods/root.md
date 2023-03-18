@@ -10,6 +10,8 @@ permalink: /Services/MinecraftMods/
 
 - Xhu Mod for Minecraft
 
+- *该Mod处于内部测试阶段，可能出现不可预料的Bug，欢迎游玩提交Issue反馈*
+
 [XhuMCMod-Stars]: https://img.shields.io/github/stars/XhuOffice/XhuMCMod?label=Stars&style=flat-square
 [XhuMCMod-Size]: https://img.shields.io/github/repo-size/XhuOffice/XhuMCMod?label=存储库大小&style=flat-square
 [XhuMCMod-License]: https://img.shields.io/badge/License-Apache%202.0-red?style=flat-square

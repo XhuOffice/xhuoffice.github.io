@@ -8,9 +8,9 @@ permalink: /Services/MCS/
 
 - ![235SR][235SR-ICON]
 
-- 核服是Session小胡的一款Minecraft生存服务器，具有自由、免费、纯净、~~无政府~~等特点
+- 核服是Session小胡的一款Minecraft生存服务器，具有**自由**、**免费**、**纯净**、~~无政府~~等特点
 
-- 您可以在GitHub上查看下载服务器文件
+- 您可以在[GitHub][235SR-GO]上查看下载服务器文件
 
 - 服务器信息
   - [![Size][235SR-Size]][235SR-GO] [![Last-Commit][235SR-Commit]][235SR-Go] [![Discord][235SR-Discord-Info]][235SR-Discord-Go]
@@ -21,7 +21,7 @@ permalink: /Services/MCS/
   - 注意事项
     - 服务器使用[LittleSkin][LittleSkin]鉴权，游玩请注意登陆方式！
     - 服务器自动选择节点进行连接，请注意不要随便使用代理！
-    - 服务器目前位于欧洲，延迟可能较大
+    - 服务器自2023年1月起处于停机状态，请关注Discord中的信息。
 
 [235SR-ICON]: /images/Services/235SR.png "235SR"
 [235SR-Size]: https://img.shields.io/github/repo-size/SessionHu/235SR?label=服务器体积&style=flat-square "Size"
