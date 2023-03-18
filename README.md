@@ -18,7 +18,7 @@ permalink: /
 
 ## 业务
 
-- 我们提供[Minecraft服务器游戏服务]，这是一个公益的项目。
+- 我们提供[Minecraft服务器](./Services/MCS/ "Minecraft Server Services")游戏服务，这是一个公益的项目。
 
 - 我们在[Bilibili][Session-Go]上发布视频，欢迎您前来观看。
 
