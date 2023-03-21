@@ -12,6 +12,8 @@ permalink: /Services/Image/
 
 - 地址： <https://git.xhuoffice.tk/>
 
+- 地区限制：除**韩国**以外均可访问。
+
 - 为保障您的账号安全，请不要[登录](https://git.xhuoffice.tk/login/ "明知故犯")~~（前提是你得登的上去）~~。
 
 ## Google
