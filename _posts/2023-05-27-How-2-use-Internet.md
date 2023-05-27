@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 title: 如何科学上网
 author: Session Hu
 keywords: [XhuOffice, v2ray, 科学上网, v2rayN, Windows]
-permalink: /Notes/20230527/00000001/
+permalink: /Notes/2023-05-27-How-2-use-Internet/
 ---
 
 ## 注意事项
