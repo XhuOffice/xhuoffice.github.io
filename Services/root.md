@@ -2,6 +2,7 @@
 layout: page
 title: 服务
 permalink: /Services/
+keywords: [XhuOffice, Services]
 ---
 
 ## Minecraft服务器游戏服务

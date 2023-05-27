@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Minecraft服务器游戏服务
+keywords: [XhuOffice, Services, Minecraft, Server]
 permalink: /Services/MCS/
 ---
 

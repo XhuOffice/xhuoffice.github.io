@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 主页
+keywords: [XhuOffice]
 permalink: /
 ---
 

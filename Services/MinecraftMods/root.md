@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Minecraft Mods
+keywords: [XhuOffice, Services, Minecraft, Mods]
 permalink: /Services/MinecraftMods/
 ---
 

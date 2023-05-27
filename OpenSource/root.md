@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 开源
+keywords: [XhuOffice, OpenSource]
 permalink: /OpenSource/
 ---
 
