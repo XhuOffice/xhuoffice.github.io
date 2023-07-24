@@ -15,7 +15,7 @@ permalink: /OpenSource/
 
 - XhuOffice是一个在GitHub上进行开源项目的工作室。
 
-- 主要项目有 `Xhu Minecraft Mod` `PC Desktop Protection` `长度单位计算器` 等
+- 主要项目有 `Xhu Minecraft Mod` `Shell Hash CMD` `2345 BLOCKER HOSTS` `长度单位计算器` 等
 
 - 开源项目开发不易！请[赞助][Session-Charge]我们！
 
@@ -38,18 +38,31 @@ permalink: /OpenSource/
 [XhuMCMod-License]: https://img.shields.io/badge/License-Apache%202.0-red?style=flat-square
 [XhuMCMod-Go]: https://github.com/XhuOffice/XhuMCMod/ "在GitHub上查看"
 
-### PC Desktop Protection
+### Shell Hash CMD
 
-[![GitHub Repo stars][PCDP-Stars] ![GitHub commit activity][PCDP-Commit-Activity] ![GitHub repo size][PCDP-Size] ![License][PCDP-License] ![GitHub last commit][PCDP-Last-Commit]][PCDP-Go]
+[![GitHub Repo stars][ShellHashCMD-Stars] ![GitHub commit activity][ShellHashCMD-Commit-Activity] ![GitHub repo size][ShellHashCMD-Size] ![License][ShellHashCMD-License] ![GitHub last commit][ShellHashCMD-Last-Commit]][ShellHashCMD-Go]
 
-- 一款可以保护您的Windows桌面的病毒
+- 调用Windows组件在右键菜单中快速计算文件HASH值
 
-[PCDP-Commit-Activity]: https://img.shields.io/github/commit-activity/m/SessionHu/PC-Desktop-Protection-Virus?label=提交频率&style=flat-square
-[PCDP-Last-Commit]: https://img.shields.io/github/last-commit/SessionHu/PC-Desktop-Protection-Virus?label=上次提交&style=flat-square
-[PCDP-Stars]: https://img.shields.io/github/stars/SessionHu/PC-Desktop-Protection-Virus?label=Stars&style=flat-square
-[PCDP-Size]: https://img.shields.io/github/repo-size/SessionHu/PC-Desktop-Protection-Virus?label=存储库大小&style=flat-square
-[PCDP-License]: https://img.shields.io/badge/License-Apache%202.0-red?style=flat-square
-[PCDP-Go]: https://github.com/SessionHu/PC-Desktop-Protection-Virus/ "在GitHub上查看"
+[ShellHashCMD-Commit-Activity]: https://img.shields.io/github/commit-activity/m/SessionHu/shell-hash-cmd?label=提交频率&style=flat-square
+[ShellHashCMD-Last-Commit]: https://img.shields.io/github/last-commit/SessionHu/shell-hash-cmd?label=上次提交&style=flat-square
+[ShellHashCMD-Stars]: https://img.shields.io/github/stars/SessionHu/shell-hash-cmd?label=Stars&style=flat-square
+[ShellHashCMD-Size]: https://img.shields.io/github/repo-size/SessionHu/shell-hash-cmd?label=存储库大小&style=flat-square
+[ShellHashCMD-License]: https://img.shields.io/badge/License-CC--BY--SA--4.0-#66ccff?style=flat-square
+[ShellHashCMD-Go]: https://github.com/SessionHu/shell-hash-cmd/ "在GitHub上查看"
+
+### 2345 BLOCKER HOSTS
+
+[![GitHub Repo stars][2345BlockerHosts-Stars] ![GitHub commit activity][2345BlockerHosts-Commit-Activity] ![GitHub repo size][2345BlockerHosts-Size] ![License][2345BlockerHosts-License] ![GitHub last commit][2345BlockerHosts-Last-Commit]][2345BlockerHosts-Go]
+
+- 调用Windows组件在右键菜单中快速计算文件HASH值
+
+[2345BlockerHosts-Commit-Activity]: https://img.shields.io/github/commit-activity/m/SessionHu/2345-blocker-hosts?label=提交频率&style=flat-square
+[2345BlockerHosts-Last-Commit]: https://img.shields.io/github/last-commit/SessionHu/2345-blocker-hosts?label=上次提交&style=flat-square
+[2345BlockerHosts-Stars]: https://img.shields.io/github/stars/SessionHu/2345-blocker-hosts?label=Stars&style=flat-square
+[2345BlockerHosts-Size]: https://img.shields.io/github/repo-size/SessionHu/2345-blocker-hosts?label=存储库大小&style=flat-square
+[2345BlockerHosts-License]: https://img.shields.io/badge/License-CC--BY--SA--4.0-#66ccff?style=flat-square
+[2345BlockerHosts-Go]: https://github.com/SessionHu/2345-blocker-hosts/ "在GitHub上查看"
 
 ### 长度单位换算器
 

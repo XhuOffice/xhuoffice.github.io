@@ -9,7 +9,7 @@ show_excerpts: false
 header_pages:
  - README.md
  - Services/root.md
- - OpenSource/root.md
+ - OpenSource.md
  - Notes.html
 
 remote_theme: XhuOffice/minima
