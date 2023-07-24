@@ -48,7 +48,7 @@ permalink: /OpenSource/
 [ShellHashCMD-Last-Commit]: https://img.shields.io/github/last-commit/SessionHu/shell-hash-cmd?label=上次提交&style=flat-square
 [ShellHashCMD-Stars]: https://img.shields.io/github/stars/SessionHu/shell-hash-cmd?label=Stars&style=flat-square
 [ShellHashCMD-Size]: https://img.shields.io/github/repo-size/SessionHu/shell-hash-cmd?label=存储库大小&style=flat-square
-[ShellHashCMD-License]: https://img.shields.io/badge/License-CC--BY--SA--4.0-#66ccff?style=flat-square
+[ShellHashCMD-License]: https://img.shields.io/badge/License-CC--BY--SA--4.0-66ccff?style=flat-square
 [ShellHashCMD-Go]: https://github.com/SessionHu/shell-hash-cmd/ "在GitHub上查看"
 
 ### 2345 BLOCKER HOSTS
@@ -61,7 +61,7 @@ permalink: /OpenSource/
 [2345BlockerHosts-Last-Commit]: https://img.shields.io/github/last-commit/SessionHu/2345-blocker-hosts?label=上次提交&style=flat-square
 [2345BlockerHosts-Stars]: https://img.shields.io/github/stars/SessionHu/2345-blocker-hosts?label=Stars&style=flat-square
 [2345BlockerHosts-Size]: https://img.shields.io/github/repo-size/SessionHu/2345-blocker-hosts?label=存储库大小&style=flat-square
-[2345BlockerHosts-License]: https://img.shields.io/badge/License-CC--BY--SA--4.0-#66ccff?style=flat-square
+[2345BlockerHosts-License]: https://img.shields.io/badge/License-CC--BY--SA--4.0-66ccff?style=flat-square
 [2345BlockerHosts-Go]: https://github.com/SessionHu/2345-blocker-hosts/ "在GitHub上查看"
 
 ### 长度单位换算器
