@@ -23,6 +23,19 @@ permalink: /OpenSource/
 
 ## 推荐
 
+### SessBilinfo
+
+[![GitHub Repo stars][SessBilinfo-Stars] ![GitHub commit activity][SessBilinfo-Commit-Activity] ![GitHub repo size][SessBilinfo-Size] ![License][SessBilinfo-License] ![GitHub last commit][SessBilinfo-Last-Commit]][SessBilinfo-Go]
+
+- 使用 Java 通过 Bilibili API 获取信息
+
+[SessBilinfo-Commit-Activity]: https://img.shields.io/github/commit-activity/m/SessionHu/SessBilinfo?label=提交频率&style=flat-square
+[SessBilinfo-Last-Commit]: https://img.shields.io/github/last-commit/SessionHu/SessBilinfo?label=上次提交&style=flat-square
+[SessBilinfo-Stars]: https://img.shields.io/github/stars/SessionHu/SessBilinfo?label=Stars&style=flat-square
+[SessBilinfo-Size]: https://img.shields.io/github/repo-size/SessionHu/SessBilinfo?label=存储库大小&style=flat-square
+[SessBilinfo-License]: https://img.shields.io//badge/License-MIT-blueviolet?style=flat-square
+[SessBilinfo-Go]: https://github.com/SessionHu/SessBilinfo
+
 ### Xhu Minecraft Mod
 
 [![GitHub Repo stars][XhuMCMod-Stars] ![GitHub commit activity][XhuMCMod-Commit-Activity] ![GitHub repo size][XhuMCMod-Size] ![License][XhuMCMod-License] ![GitHub last commit][XhuMCMod-Last-Commit]][XhuMCMod-Go]
@@ -63,6 +76,19 @@ permalink: /OpenSource/
 [2345BlockerHosts-Size]: https://img.shields.io/github/repo-size/SessionHu/2345-blocker-hosts?label=存储库大小&style=flat-square
 [2345BlockerHosts-License]: https://img.shields.io/badge/License-CC--BY--SA--4.0-66ccff?style=flat-square
 [2345BlockerHosts-Go]: https://github.com/SessionHu/2345-blocker-hosts/ "在GitHub上查看"
+
+### DupLinesDet
+
+[![GitHub Repo stars][DupLinesDet-Stars] ![GitHub commit activity][DupLinesDet-Commit-Activity] ![GitHub repo size][DupLinesDet-Size] ![License][DupLinesDet-License] ![GitHub last commit][DupLinesDet-Last-Commit]][DupLinesDet-Go]
+
+- 一个可以快速检测文件中是否存在重复行的工具
+
+[DupLinesDet-Commit-Activity]: https://img.shields.io/github/commit-activity/m/SessionHu/DupLinesDet?label=提交频率&style=flat-square
+[DupLinesDet-Last-Commit]: https://img.shields.io/github/last-commit/SessionHu/DupLinesDet?label=上次提交&style=flat-square
+[DupLinesDet-Stars]: https://img.shields.io/github/stars/SessionHu/DupLinesDet?label=Stars&style=flat-square
+[DupLinesDet-Size]: https://img.shields.io/github/repo-size/SessionHu/DupLinesDet?label=存储库大小&style=flat-square
+[DupLinesDet-License]: https://img.shields.io//badge/License-MIT-blueviolet?style=flat-square
+[DupLinesDet-Go]: https://github.com/SessionHu/DupLinesDet
 
 ### 长度单位换算器
 
