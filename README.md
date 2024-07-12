@@ -5,6 +5,12 @@ keywords: [XhuOffice]
 permalink: /
 ---
 
+## Warning
+
+- 本网站信息已经过时, 请移步至下列网站
+  - Xhu Navigation Galaxy - [https://sess.xhustudio.eu.org](https://sess.xhustudio.eu.org)
+  - SЕSSのB10GТЕ5Т - [https://inde.xhustudio.eu.org](https://inde.xhustudio.eu.org)
+
 - 这里是XhuOffice的官方网站
 
 ## 简介
