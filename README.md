@@ -8,8 +8,12 @@ permalink: /
 ## Warning
 
 - 本网站信息已经过时, 请移步至下列网站
-  - Xhu Navigation Galaxy - [https://sess.xhustudio.eu.org](https://sess.xhustudio.eu.org)
-  - SЕSSのB10GТЕ5Т - [https://inde.xhustudio.eu.org](https://inde.xhustudio.eu.org)
+  - SЕSSのB10GТЕ5Т - [https://sess.xhustudio.eu.org](https://sess.xhustudio.eu.org)
+  - Xhu Navigation Galaxy - [https://inde.xhustudio.eu.org](https://inde.xhustudio.eu.org)
+
+- 网站重构计划: 暂未确定
+
+---
 
 - 这里是XhuOffice的官方网站
 
